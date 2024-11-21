@@ -54,7 +54,7 @@ SoaPractica/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/SoaPractica.git
+   git clone https://github.com/Villo29/Health-Check-SOA.git
    cd SoaPractica
    ```
 
